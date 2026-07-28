@@ -1,0 +1,18 @@
+# Weekly materials
+
+- [Week 01: What makes a study credible and reproducible?](week01/README.md)
+- [Week 02: How can a broad interest become a feasible research question?](week02/README.md)
+- [Week 03: How do we find and evaluate evidence systematically?](week03/README.md)
+- [Week 04: How does a review build an argument rather than a list?](week04/README.md)
+- [Week 05: When is qualitative evidence the right choice?](week05/README.md)
+- [Week 06: How can transparent coding support an interpretation?](week06/README.md)
+- [Week 07: Does the proposed design support the intended claim?](week07/README.md)
+- [Week 08: Can you independently apply the course workflow?](week08/README.md)
+- [Week 09: Can another researcher trace and assess the data?](week09/README.md)
+- [Week 10: How do raw records become defensible descriptive evidence?](week10/README.md)
+- [Week 11: What uncertainty accompanies a comparison or association?](week11/README.md)
+- [Week 12: What does a regression estimate—and what can threaten it?](week12/README.md)
+- [Week 13: Is the goal description, causal explanation, or prediction?](week13/README.md)
+- [Week 14: How do separate components become one research argument?](week14/README.md)
+- [Week 15: Can you communicate and defend the complete study?](week15/README.md)
+- [Week 16: How should feedback change the final study?](week16/README.md)

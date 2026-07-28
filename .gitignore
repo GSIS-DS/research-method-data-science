@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.key
+*.pem
+data/external/*
+!data/external/README.md
+student-data/
+confidential/

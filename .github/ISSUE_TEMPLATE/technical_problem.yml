@@ -1,0 +1,22 @@
+name: Broken link or notebook problem
+description: Report a technical problem in public course material
+title: "[Technical] "
+labels: ["technical"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File or link
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: privacy
+    attributes:
+      label: Privacy check
+      description: Do not include student data, grades, credentials, or private information.
