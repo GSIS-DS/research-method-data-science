@@ -30,10 +30,10 @@ Prior programming experience is helpful but not required.
 
 | Component | Weight |
 |---|---:|
-| Research workflow labs and participation | 15% |
+| Research workflow labs and participation | 10% |
 | Literature review and research proposal | 15% |
 | Midterm practical assessment | 25% |
-| Qualitative research exercise | 10% |
+| Qualitative research exercise | 15% |
 | Final examination assignment—individual research project | 35% |
 The assessment components total 100%. There is no separate graded peer-review component.
 

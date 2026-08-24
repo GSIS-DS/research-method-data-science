@@ -24,4 +24,5 @@ Permitted AI use must be disclosed and verified. AI is normally prohibited durin
 Protect sensitive data. Work must run from its documented starting point. Cyber Campus is official
 for announcements, deadlines, grades, and submissions.
 
-Research workflow labs and participation carry 15%, bringing the detailed assessment components to 100%.
+Research workflow labs and participation carry 10%, and the qualitative research exercise carries
+15%, bringing the detailed assessment components to 100%.

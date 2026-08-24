@@ -6,10 +6,10 @@ errors=[]
 notebook_index=(root/"notebooks/README.md").read_text(encoding="utf-8")
 readme=(root/"README.md").read_text(encoding="utf-8")
 expected_weights={
-    "Research workflow labs and participation": "15%",
+    "Research workflow labs and participation": "10%",
     "Literature review and research proposal": "15%",
     "Midterm practical assessment": "25%",
-    "Qualitative research exercise": "10%",
+    "Qualitative research exercise": "15%",
     "Final examination assignment—individual research project": "35%",
 }
 for component, weight in expected_weights.items():

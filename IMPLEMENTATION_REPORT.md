@@ -19,8 +19,6 @@ delivery. The repository does not label those materials as finished.
 
 See `docs/instructor_decisions.md`. Final rubrics, changing visibility from private to public, solution
 publication, student repositories/access, dates, and final submission details remain unresolved.
-The current workspace source PDF also conflicts with the instructor-confirmed assessment weights;
-details are recorded in `docs/instructor_decisions.md` and must be resolved before public release.
 
 ## Content intentionally private
 
