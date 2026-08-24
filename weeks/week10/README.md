@@ -17,7 +17,8 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Tidy data, missing values, and joins](../../notebooks/labs/tidy_missing_joins.ipynb)
+- [Descriptive statistics and visualization](../../notebooks/labs/descriptive_visualization.ipynb)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

@@ -17,7 +17,7 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Research-proposal template](../../templates/research_proposal.md)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

@@ -17,7 +17,8 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Initial qualitative coding lab](../../notebooks/labs/qualitative_initial_coding.ipynb)
+- [Categories and themes lab](../../notebooks/labs/qualitative_categories_themes.ipynb)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

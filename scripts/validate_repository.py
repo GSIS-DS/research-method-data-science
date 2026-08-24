@@ -3,6 +3,18 @@ import ast, json, re, sys
 
 root=Path(__file__).resolve().parents[1]
 errors=[]
+notebook_index=(root/"notebooks/README.md").read_text(encoding="utf-8")
+readme=(root/"README.md").read_text(encoding="utf-8")
+expected_weights={
+    "Research workflow labs and participation": "15%",
+    "Literature review and research proposal": "15%",
+    "Midterm practical assessment": "25%",
+    "Qualitative research exercise": "10%",
+    "Final examination assignment—individual research project": "35%",
+}
+for component, weight in expected_weights.items():
+    if f"| {component} | {weight} |" not in readme:
+        errors.append(f"README assessment mismatch: {component} must be {weight}")
 for p in root.rglob("*.md"):
     text=p.read_text(encoding="utf-8")
     for target in re.findall(r"\[[^]]+\]\(([^)]+)\)", text):
@@ -25,6 +37,13 @@ for p in root.rglob("*.ipynb"):
                 source="".join(source) if isinstance(source,list) else source
                 ast.parse(source)
     except Exception as exc: errors.append(f"invalid notebook {p.relative_to(root)}: {exc}")
+course_notebooks=list((root/"notebooks").rglob("*.ipynb"))
+if len(course_notebooks) != 17:
+    errors.append(f"expected 17 course notebooks under notebooks/, found {len(course_notebooks)}")
+for p in course_notebooks:
+    relative=p.relative_to(root/"notebooks").as_posix()
+    if relative not in notebook_index:
+        errors.append(f"notebook missing from index: {relative}")
 for p in root.rglob("*"):
     if p.is_file() and p.stat().st_size == 0: errors.append(f"empty file: {p.relative_to(root)}")
 if errors:

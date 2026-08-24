@@ -17,7 +17,9 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Regression lab](../../notebooks/labs/regression.ipynb)
+- [Regression diagnostics](../../notebooks/labs/regression_diagnostics.ipynb)
+- [Robustness checks](../../notebooks/labs/robust_checks.ipynb)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

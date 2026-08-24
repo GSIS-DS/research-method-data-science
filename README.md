@@ -54,9 +54,9 @@ integrate, present, defend, revise, and submit the complete individual study.
 Cyber Campus remains the official location for announcements, deadlines, grades, and required
 submissions. This repository provides learning materials; do not submit here unless explicitly told.
 
-**Repository status:** student-facing foundation complete; weekly concept notes and several
-method notebooks are release-ready, while listed weekly teaching materials remain staged for
-instructor review. **Last updated:** 2026-07-27.
+**Repository status:** beginner onboarding, guides, templates, sample data, and 18 notebooks are
+available. Weekly pages accurately map the syllabus but remain concise teaching outlines; readings,
+slides, deadlines, and final rubrics require instructor release. **Last updated:** 2026-08-24.
 
 ## License and attribution
 

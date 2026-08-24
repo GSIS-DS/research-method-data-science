@@ -17,7 +17,8 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Final-project repository template](../../templates/final_project_repository/README.md)
+- [Reproducibility checklist](../../templates/reproducibility_checklist.md)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

@@ -17,7 +17,7 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Midterm overview and preparation guide](../../assignments/midterm_practical/README.md)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

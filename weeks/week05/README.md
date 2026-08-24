@@ -17,7 +17,8 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Qualitative-methods guide](../../docs/qualitative_methods_guide.md)
+- [Qualitative protocol](../../templates/qualitative_protocol.md)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

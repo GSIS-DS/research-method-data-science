@@ -17,7 +17,10 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Causal reasoning versus association](../../notebooks/demonstrations/causal_vs_association.ipynb)
+- [Prediction versus explanation](../../notebooks/demonstrations/prediction_vs_explanation.ipynb)
+- [Introductory text as data](../../notebooks/demonstrations/text_as_data.ipynb)
+- [AI-generated-code verification](../../notebooks/labs/ai_code_verification.ipynb)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

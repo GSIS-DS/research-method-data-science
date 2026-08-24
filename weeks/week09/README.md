@@ -17,7 +17,9 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Importing and inspecting data](../../notebooks/demonstrations/import_inspect.ipynb)
+- [Data provenance and validation lab](../../notebooks/labs/data_provenance_validation.ipynb)
+- [Data-source log](../../templates/data_source_log.md)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone

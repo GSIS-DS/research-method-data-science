@@ -17,7 +17,9 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
-- [Course notebooks](../../notebooks/README.md)
+- [Sampling variation and simulation](../../notebooks/labs/sampling_simulation.ipynb)
+- [Confidence intervals](../../notebooks/labs/confidence_intervals.ipynb)
+- [Hypothesis tests and effect sizes](../../notebooks/labs/hypothesis_effect_sizes.ipynb)
 - [Relevant templates](../../templates/README.md)
 
 ## Project milestone
