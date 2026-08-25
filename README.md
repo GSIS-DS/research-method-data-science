@@ -58,7 +58,7 @@ individual assignments, and group activities total 40%. In the specific table, w
 participation, the literature review/proposal, and the qualitative exercise also total 40%. Because
 the proposal and qualitative exercise may include individual and group work, their exact reporting
 across the three general categories will follow the instructions released for each task. The midterm
-and final project match directly. There is no separate graded peer-review component.
+and final project match directly. 
 
 ## Course map
 
