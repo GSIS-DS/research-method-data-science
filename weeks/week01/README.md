@@ -17,6 +17,7 @@ Review the linked concept note and bring your current project materials. Require
 ## Materials
 
 - [Concept note](concept-note.md)
+- [Week 1 slides (PDF)](slides/W1_RMDS.pdf)
 - [Python and Colab readiness](../../notebooks/preparation/python_colab_readiness.ipynb)
 - [Relevant templates](../../templates/README.md)
 
