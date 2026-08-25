@@ -24,5 +24,32 @@ Permitted AI use must be disclosed and verified. AI is normally prohibited durin
 Protect sensitive data. Work must run from its documented starting point. Cyber Campus is official
 for announcements, deadlines, grades, and submissions.
 
-Research workflow labs and participation carry 10%, and the qualitative research exercise carries
-15%, bringing the detailed assessment components to 100%.
+## Assessment: general categories
+
+| Component | Weight |
+|---|---:|
+| Class participation | 10% |
+| Individual assignments | 10% |
+| Group activities | 20% |
+| Midterm examination — Week 8 | 25% |
+| Final individual research project — Week 16 | 35% |
+| **Total** | **100%** |
+
+Detailed task instructions and grading criteria will be provided before each assessed component.
+Grades reflect demonstrated achievement under those published criteria.
+
+## Assessment: specific course components
+
+| Component | Weight |
+|---|---:|
+| Research workflow labs and participation | 10% |
+| Literature review and research proposal | 15% |
+| Midterm practical assessment | 25% |
+| Qualitative research exercise | 15% |
+| Final examination assignment—individual research project | 35% |
+| **Total** | **100%** |
+
+These are two views of the same grading structure. The first three general categories total 40%, as
+do the first, second, and fourth specific components. The proposal and qualitative exercise may
+contain individual and group work; the released task instructions will state how that work is
+organized and reported. The midterm and final project correspond directly across both tables.

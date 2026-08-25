@@ -28,6 +28,22 @@ Prior programming experience is helpful but not required.
 
 ## Assessment overview
 
+### General syllabus categories
+
+| Component | Weight |
+|---|---:|
+| Class participation | 10% |
+| Individual assignments | 10% |
+| Group activities | 20% |
+| Midterm examination — Week 8 | 25% |
+| Final individual research project — Week 16 | 35% |
+| **Total** | **100%** |
+
+Detailed task instructions and grading criteria will be provided before each assessed component.
+Grades reflect demonstrated achievement under those published criteria.
+
+### Specific course components
+
 | Component | Weight |
 |---|---:|
 | Research workflow labs and participation | 10% |
@@ -35,7 +51,14 @@ Prior programming experience is helpful but not required.
 | Midterm practical assessment | 25% |
 | Qualitative research exercise | 15% |
 | Final examination assignment—individual research project | 35% |
-The assessment components total 100%. There is no separate graded peer-review component.
+| **Total** | **100%** |
+
+The two tables describe the same 100%. In the general syllabus table, class participation,
+individual assignments, and group activities total 40%. In the specific table, workflow labs and
+participation, the literature review/proposal, and the qualitative exercise also total 40%. Because
+the proposal and qualitative exercise may include individual and group work, their exact reporting
+across the three general categories will follow the instructions released for each task. The midterm
+and final project match directly. There is no separate graded peer-review component.
 
 ## Course map
 
@@ -56,7 +79,7 @@ submissions. This repository provides learning materials; do not submit here unl
 
 **Repository status:** beginner onboarding, guides, templates, sample data, and 18 notebooks are
 available. Weekly pages accurately map the syllabus but remain concise teaching outlines; readings,
-slides, deadlines, and final rubrics require instructor release. **Last updated:** 2026-08-24.
+slides, deadlines, and final rubrics require instructor release. **Last updated:** 2026-08-25.
 
 ## License and attribution
 

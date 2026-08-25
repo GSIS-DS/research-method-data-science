@@ -12,9 +12,19 @@ expected_weights={
     "Qualitative research exercise": "15%",
     "Final examination assignment—individual research project": "35%",
 }
+general_weights={
+    "Class participation": "10%",
+    "Individual assignments": "10%",
+    "Group activities": "20%",
+    "Midterm examination — Week 8": "25%",
+    "Final individual research project — Week 16": "35%",
+}
 for component, weight in expected_weights.items():
     if f"| {component} | {weight} |" not in readme:
         errors.append(f"README assessment mismatch: {component} must be {weight}")
+for component, weight in general_weights.items():
+    if f"| {component} | {weight} |" not in readme:
+        errors.append(f"README general assessment mismatch: {component} must be {weight}")
 for p in root.rglob("*.md"):
     text=p.read_text(encoding="utf-8")
     for target in re.findall(r"\[[^]]+\]\(([^)]+)\)", text):
