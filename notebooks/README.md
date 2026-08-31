@@ -1,8 +1,8 @@
 # Notebooks
 
 The notebooks are organized by purpose. Open the GitHub page for a notebook to read it, or use its
-Colab badge to run an editable copy. Direct Colab access requires this course repository to be public
-or the user to have authorized access to the private repository.
+Colab badge to run an editable copy. The course repository is public, so direct Colab access does not
+require private-repository authorization.
 
 ## Preparation
 

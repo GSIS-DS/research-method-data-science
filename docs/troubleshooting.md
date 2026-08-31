@@ -15,7 +15,7 @@ A Colab session reset removes temporary files and variables.
 ## Colab reports a GitHub API 404
 
 If the message refers to `api.github.com/repos/GSIS-DS/research-method-data-science/contents`, first
-check the repository visibility. GitHub returns 404 for private content when Colab is not authorized
-to read it. The notebook path can still be correct. Until the course repository is public, download
-the `.ipynb` file from GitHub and upload it to Colab, or use Colab's GitHub authorization flow if your
-account has repository access. Never paste a GitHub access token into a notebook.
+check the repository address and notebook path. The course repository is public, so access does not
+require GitHub authorization. Confirm that the URL uses the `GSIS-DS` organization, the
+`research-method-data-science` repository, and the `main` branch. If needed, download the `.ipynb`
+file from GitHub and upload it to Colab. Never paste a GitHub access token into a notebook.

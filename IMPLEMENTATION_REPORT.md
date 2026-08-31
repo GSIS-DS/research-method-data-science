@@ -17,8 +17,8 @@ delivery. The repository does not label those materials as finished.
 
 ## Instructor checkpoints
 
-See `docs/instructor_decisions.md`. Final rubrics, changing visibility from private to public, solution
-publication, student repositories/access, dates, and final submission details remain unresolved.
+See `docs/instructor_decisions.md`. Final rubrics, solution publication, student repositories/access,
+dates, and final submission details remain unresolved. Public release is complete.
 
 ## Content intentionally private
 

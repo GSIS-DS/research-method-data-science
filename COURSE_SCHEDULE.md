@@ -1,6 +1,7 @@
 # Course schedule
 
-Dates are intentionally omitted until verified against the official Fall 2026 calendar.
+Classes meet every Tuesday and Thursday from 13:30 to 14:45. 
+
 | Week | Tuesday | Thursday | Main project connection |
 |---:|---|---|---|
 | 1 | Research types and course orientation | Colab, GitHub, notebooks, organization, reproducibility | Setup |
