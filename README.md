@@ -79,7 +79,7 @@ submissions. This repository provides learning materials; do not submit here unl
 
 **Repository status:** beginner onboarding, guides, templates, sample data, and 18 notebooks are
 available. Weekly pages accurately map the syllabus but remain concise teaching outlines; readings,
-slides, deadlines, and final rubrics require instructor release. **Last updated:** 2026-08-25.
+slides, deadlines, and final rubrics require instructor release. **Last updated:** 2026-08-31.
 
 ## License and attribution
 
